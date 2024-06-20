@@ -7,16 +7,16 @@
   TBD-step-1-notes.
 -->
 
-## Step 1: TBD-step-1-name
+## Step 1: Make a fork of a repository
 
-_Welcome to "TBD-course-name"! :wave:_
+Let's get started by making a fork of a repository.
 
-TBD-step-1-information
+**What is fork?**: A fork is a new repository that shares code and visibility settings with the original “upstream” repository. Forks are often used to iterate on ideas or changes before they are proposed back to the upstream repository, such as in open source projects or when a user does not have write access to the upstream repository
 
-**What is _TBD-term-1_**: TBD-definition-1
+### :keyboard: Activity: Fork a repository
 
-### :keyboard: Activity: TBD-step-1-name
-
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. TBD-step-1-instructions.
+1. Open a new browser tab and navigate to [this example repository]([https://e-perl-NOAA/](https://github.com/e-perl-NOAA/build-admb-ss3-docker). Don't get overwhelmed by the repository, we will just be editing the text in the README file.
+2. In the top-right corner of the page, click **Fork** and create a new fork.
+3. Select your own personal repository as the owner and add "-fork" to the repository name.
+4. Click **Create fork**
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
