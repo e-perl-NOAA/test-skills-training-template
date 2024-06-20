@@ -9,9 +9,9 @@
   Add your open source license, GitHub uses the MIT license.
 -->
 
-# TBD-course-name
+# Using Forks
 
-_TBD-course-description_
+_Create a fork of a repository, make changes, update your fork from the origin, and submit a pull request_
 
 </header>
 
@@ -24,19 +24,34 @@ _TBD-course-description_
   TBD-step-1-notes.
 -->
 
-## Step 1: TBD-step-1-name
+## Welcome
 
-_Welcome to "TBD-course-name"! :wave:_
+_Welcome to "Working with forks"! :wave:_
 
-TBD-step-1-information
+When collaborating on a project, you will often not have write access to that project's repository. However, forks allow you to still contribute code to the project without having special access to that repository! 
 
-**What is _TBD-term-1_**: TBD-definition-1
+- **Who is this for**: Developers, new GitHub users, users new to Git, students, managers, teams.
+- **What you'll learn**: How to use forks to make changes to code that you don't have write access to.
+- **What you'll build**: We'll be creating a fork of a simple repository with a README file.
+- **Prerequisites**: We assume you are familiar with creating repositories, pushing changes, creating a branch, rebasing/merge conflicts, and pull requests.
+- **How long**: This course takes less than 30 minutes to complete.
+  
+In this course, you will:
+
+1. Create a fork of a simple repository with a README file
+2. Make changes to a branch in that fork and push those changes
+3. Submitting a pull request with your fork
+4. Retrieve new changes.
 
 ### :keyboard: Activity: TBD-step-1-name
+[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=e-perl-NOAA&template_name=test-skills-training-template&owner=%40me&name=e-perl-NOAA-test-skills-training-template&description=My+clone+repository&visibility=public)
 
-1. Open a new browser tab, and work on the steps in your second tab while you read the instructions in this tab.
-1. TBD-step-1-instructions.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Right-click **Start course** and open the link in a new tab.
+2. In the new tab, most of the prompts will automatically fill in for you.
+   - For owner, choose your personal account or an organization to host the repository.
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
+   - Scroll down and click the **Create repository** button at the bottom of the form.
+3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
 <footer>
 
@@ -47,8 +62,8 @@ TBD-step-1-information
 
 ---
 
-Get help: [TBD-support](TBD-support-link) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+<!-- Get help: [TBD-support](TBD-support-link) &bull; [Review the GitHub status page](https://www.githubstatus.com/)-->
 
-&copy; 2023 TBD-copyright-holder &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2023 TBD-copyright-holder &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull
 
 </footer>
