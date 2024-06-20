@@ -43,7 +43,7 @@ In this course, you will:
 3. Submitting a pull request with your fork
 4. Retrieve new changes.
 
-### :keyboard: Activity: TBD-step-1-name
+### How to start this course
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=e-perl-NOAA&template_name=test-skills-training-template&owner=%40me&name=e-perl-NOAA-test-skills-training-template&description=My+clone+repository&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
