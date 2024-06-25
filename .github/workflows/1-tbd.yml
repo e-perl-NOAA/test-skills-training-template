@@ -7,6 +7,7 @@ name: Step 1, TBD-step-1-name
 # Reference: https://docs.github.com/en/actions/learn-github-actions/events-that-trigger-workflows
 on:
   workflow_dispatch:
+  fork:
   # Add events that trigger this workflow.
   # TBD-step-1-event:
 
@@ -31,7 +32,7 @@ jobs:
       current_step: ${{ steps.get_step.outputs.current_step }}
 
   on_TBD-step-1-event:
-    name: On TBD-step-1-event
+    name: On create a fork
     needs: get_current_step
 
     # We will only run this action when:
@@ -62,4 +63,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 1
           to_step: 2
-          branch_name: tbd-branch-name
+          # branch_name: tbd-branch-name
