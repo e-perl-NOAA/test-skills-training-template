@@ -15,7 +15,7 @@ Let's get started by making a fork of a repository.
 
 ### :keyboard: Activity: Fork a repository
 
-1. Open a new browser tab and navigate to [this example repository](https://github.com/e-perl-NOAA/build-admb-ss3-docker). Don't get overwhelmed by the repository, we will just be editing the text in the README file.
+1. Open a new browser tab and navigate to the repository that you just created.
 2. In the top-right corner of the page, click **Fork** and create a new fork.
 3. Select your own personal repository as the owner and add "-fork" to the repository name.
 4. Click **Create fork**
