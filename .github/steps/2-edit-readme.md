@@ -13,7 +13,7 @@ _Great job making a fork! :tada:_
 
 ### :keyboard: Activity: Edit the README.md file in your fork
 
-1. Scroll down on your fork repository to the [README](https://github.com/e-perl-NOAA/build-admb-ss3-docker#) and click on the ✏️ icon on the top right that will allow you to edit the file.
+1. Scroll down on your fork repository to the README and click on the ✏️ icon on the top right that will allow you to edit the file.
 2. Under [Simple Usage](https://docs.docker.com/guides/docker-concepts/building-images/understanding-image-layers/), edit the first sentence to add a hyperlink to [a guide on understanding what Docker images are](https://docs.docker.com/guides/docker-concepts/building-images/understanding-image-layers/) and a hyperlink to [download Docker Desktop](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe?utm_source=docker&utm_medium=webreferral&utm_campaign=dd-smartbutton&utm_location=module&_gl=1*y6h2yn*_gcl_au*MzA0NzU5NjY2LjE3MTkzMjc0OTY.*_ga*MTczMzM2MTQwNy4xNzE5MzI3NDk2*_ga_XJWPQMJYHQ*MTcxOTMyNzQ5Ni4xLjEuMTcxOTMyNzcxMy42MC4wLjA.). That sentence will go from this:
    
    ```To use this Docker image locally you will need to have Docker Desktop installed on your computer (if you are with NMFS, this will likely involve IT).```
