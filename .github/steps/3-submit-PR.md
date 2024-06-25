@@ -9,8 +9,6 @@
 
 _Nice work making changes to the README.md file :sparkles:_
 
-TBD-step-3-information
-
 **What is _pull request_?**: Collaboration happens on a pull request. The pull request shows the changes that you have made in the branck in your fork to other people. This pull request is going to keep the changes you just made in your branch in your fork and propose applying them to the `main` branch.
 
 ### :keyboard: Activity: Submit changes from your fork to the main branch of the original repository in a pull request
