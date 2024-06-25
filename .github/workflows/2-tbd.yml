@@ -52,7 +52,13 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Let's get all the branches.
-
+          repository: '${{ github.event.authors.name }}/${{ github.event.repository.name }}-fork'
+          path: fork
+          
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Let's get all the branches.
       # TBD-step-2-additional-steps
 
       # In README.md, switch step 2 for step 3.
@@ -62,4 +68,4 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
           from_step: 2
           to_step: 3
-          branch_name: tbd-branch-name
+          branch_name: step-3
